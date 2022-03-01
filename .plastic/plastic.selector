@@ -1,0 +1,4 @@
+repository "War And Civillization@ssl://unicursal-dog@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/1938740259" 
+     
